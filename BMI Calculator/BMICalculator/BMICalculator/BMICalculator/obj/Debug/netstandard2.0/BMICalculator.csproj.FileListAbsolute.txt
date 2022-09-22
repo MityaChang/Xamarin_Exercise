@@ -1,0 +1,14 @@
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/BMICalculator.deps.json
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/BMICalculator.dll
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/ref/BMICalculator.dll
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/BMICalculator.pdb
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.AssemblyInfoInputs.cache
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.AssemblyInfo.cs
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.dll
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/ref/BMICalculator.dll
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.pdb
+/Users/Miya/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.csproj.AssemblyReference.cache

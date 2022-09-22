@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{86D40CA2-5E61-4B2D-82DB-9E0C6DC96B32}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_32" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MonoDevelop.Ide.ItemProperties.BMICalculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.35787827-ADAB-4B5E-A910-3836B5A52468" />
+  <MonoDevelop.Ide.ItemProperties.BMICalculator.Android PreferredExecutionTarget="Android.pixel_5_-_api_32" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculator/BMICalculator/MainPage.xaml">
+    <Files>
+      <File FileName="BMICalculator/BMICalculator/MainPage.xaml" Line="79" Column="1" />
+      <File FileName="BMICalculator/BMICalculator/MainPage.xaml.cs" Line="16" Column="43" />
+      <File FileName="BMICalculator/BMICalculator/MainPageViewModel.cs" Line="21" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BMICalculator" expanded="True">
+            <Node name="BMICalculator" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
